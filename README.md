@@ -24,7 +24,7 @@
 ###
 
 <div align="left">
-  <a href="www.akurtaliqi.com" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
+  <a href="https://www.akurtaliqi.com" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
 </div>
 
 ###
