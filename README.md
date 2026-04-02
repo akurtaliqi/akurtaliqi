@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ajtene and I'm a fullstack developer currently based in Paris.</h2>
 
 ###
-The technos
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
