@@ -20,7 +20,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/a-kurtaliqi/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://www.akurtaliqi.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Website&logo=firefox&label=&color=blueviolet&logoColor=orange&labelColor=&style=for-the-badge" height="35" alt="website logo" /></a>
+  <a href="https://akurtaliqi.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?message=Website&logo=firefox&label=&color=blueviolet&logoColor=orange&labelColor=&style=for-the-badge" height="35" alt="website logo" /></a>
   <a href="mailto:ajtene.kurtaliqi@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
 </div>
 
